@@ -18,18 +18,15 @@ Mostrar monto total en dolares**
 
 - Create a pseudocode to calculate the aproximated age of a user base on the year they born  
 **INICIO PROGRAMA  
-
 DECLARAR listadoUsuarios, anioActual  
 LEER listado  
 GUARDAR (listadoUsuarios,listado);  
 LEER añoActual  
 GUARDAR (anioActual,añoActual);  
-
 RECORRER listadoUsuarios  
   CALCULAR anioActual - anioNacimiento  
   MOSTRAR CALCULO  
 FIN RECORRER  
-
 FIN PROGRAMA**
 
 - Why are flowcharts important to us as developers?  
