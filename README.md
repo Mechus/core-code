@@ -33,10 +33,8 @@ FIN PROGRAMA**
 **Son importantes para documentar y planificar la construccion de funciones que se implementan dentro de nuestro codigo. Tambien para plasmar de forma grafica la idea del algoritmo que deseamos implementar.**
 
 
-
-
-### Tuesday 12/01/2022
-- Translate the year you where born to binary, decimal and hexadecimal
+### Wednesday 12/01/2022
+- Translate the year you where born to binary, decimal and hexadecimal  
 **1994 -> 11111001010**  
 1994 / 2 = 997 + 0  
 997 / 2 = 498 + 1  
@@ -142,4 +140,9 @@ FIN PROGRAMA**
 		move $a0, $t3
 		syscall
 ```
+
+
+### Thursday 13/01/2022
+- Search for real word applications of Javascript
+Gmail, Facebook, Twitter, Outlook, Atom, VSCode
 
