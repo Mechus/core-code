@@ -82,7 +82,7 @@ FIN PROGRAMA**
 
 
 - Create a program to add two numbers given by the user
-`
+```
 .data
 	title: .asciiz "\nPrograma para realizar sumas de 2 numeros\n"
 	result: .asciiz "\nEl resultado de la suma es: "
@@ -121,10 +121,10 @@ FIN PROGRAMA**
 		li $v0, 1
 		move $a0, $t2
 		syscall
-`
+```
 
 - Create a program that display your name
-`
+```
 .data
 	title: .asciiz "\nPrograma para mostrar mi nombre\n"
 	result: .asciiz "\nMi nombre es: Edgar Nemecio Ortiz Barrientos"
@@ -141,5 +141,5 @@ FIN PROGRAMA**
 		li $v0, 1
 		move $a0, $t3
 		syscall
-`
+```
 
