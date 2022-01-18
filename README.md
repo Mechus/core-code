@@ -143,6 +143,6 @@ FIN PROGRAMA**
 
 
 ### Thursday 13/01/2022
-- Search for real word applications of Javascript
+- Search for real word applications of Javascript  
 Gmail, Facebook, Twitter, Outlook, Atom, VSCode
 
