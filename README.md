@@ -146,3 +146,12 @@ FIN PROGRAMA**
 - Search for real word applications of Javascript  
 Gmail, Facebook, Twitter, Outlook, Atom, VSCode
 
+
+
+### Tuesday
+- Multiply
+```
+function multiply(a, b){
+ return a * b
+}
+```
