@@ -142,16 +142,62 @@ FIN PROGRAMA**
 ```
 
 
-### Thursday 13/01/2022
+### Thursday 13/01/2022  
 - Search for real word applications of Javascript  
 Gmail, Facebook, Twitter, Outlook, Atom, VSCode
 
 
-
-### Tuesday
-- Multiply
+### Tuesday 18/01/2022. 
+- Multiply  
 ```
 function multiply(a, b){
  return a * b
 }
 ```
+
+- ASCII Total  
+```
+function uniTotal (string) {
+ let total = 0;
+  for(let i = 0; i<string.length; i++){
+    total += string.charCodeAt(i);
+  }
+  return total
+}
+```
+
+- get character from ASCII Value  
+```
+function getChar(c){
+  return String.fromCharCode(c);
+}
+```
+
+- Binary Addition. 
+```
+function addBinary(a,b) {
+ return (a+b).toString(2);
+}
+```
+
+- Student's Final Grade. 
+```
+function finalGrade (exam, projects) {
+  if(exam > 90 || projects > 10)return 100;
+  else if(exam > 75 && projects >= 5) return 90;
+  else if(exam > 50 && projects >= 2) return 75;
+  else return 0;
+}
+```
+
+
+### Wednesday 19/01/2022. 
+- Multiply  
+```
+function multiply(a, b){
+ return a * b
+}
+```
+
+
+
